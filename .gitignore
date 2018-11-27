@@ -1,0 +1,9 @@
+# esi commenta 
+# hima chem vekalum logs foldery
+
+logs/
+
+# hima chem vekalum bgs folderi meji en filery voronq unen .txt
+logs/*.txt
+
+# stugelu hamar te inchera vekalel grum es <git status>
